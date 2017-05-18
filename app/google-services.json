@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "521659050629",
+    "firebase_url": "https://crossmasterstestfirebase.firebaseio.com",
+    "project_id": "crossmasterstestfirebase",
+    "storage_bucket": "crossmasterstestfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521659050629:android:eff7daf3a8479858",
+        "android_client_info": {
+          "package_name": "com.crossmasters.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521659050629-h3jb8d713pik4qrjnqfo7gmuoeknj0ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crossmasters.myapplication",
+            "certificate_hash": "bff3e550fb82882ffd724cf5f5311879c0f87fa3"
+          }
+        },
+        {
+          "client_id": "521659050629-0dthd6bt88v6j6aluoiad90qoh948e2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvmuuYkhN77L21Uzbz0BOZGSFSqmI3FA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521659050629-0dthd6bt88v6j6aluoiad90qoh948e2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
