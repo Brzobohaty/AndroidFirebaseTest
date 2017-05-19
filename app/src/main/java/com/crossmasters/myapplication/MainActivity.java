@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         Bundle params = new Bundle();
         params.putString("screen_name", pageType);
         mFirebaseAnalytics.logEvent("screenview", params);
+        mFirebaseAnalytics.setUserProperty("name", "Honza");
     }
 
     /** Called when the user taps the Send button */
